@@ -1,0 +1,511 @@
+============================================================================
+                        A Tale of Two Cities
+============================================================================
+$ julia HW2Code_Hulette_B_hulettbh.jl tale_of_two_cities.txt
+-------------------------------------------------
+singles
+-------------------------------------------------
+e: 74839
+t: 54050
+a: 48168
+o: 46537
+n: 42385
+i: 41017
+h: 38974
+s: 37587
+r: 37211
+d: 28046
+l: 22048
+u: 16737
+m: 15296
+w: 14121
+c: 13899
+f: 13563
+g: 12547
+y: 12185
+p: 9960
+b: 8422
+v: 5204
+k: 4787
+x: 723
+j: 714
+q: 666
+z: 215
+
+-------------------------------------------------
+digrams
+-------------------------------------------------
+th: 18166
+he: 17487
+in: 11035
+er: 10493
+an: 10145
+re: 8349
+nd: 7933
+ha: 6723
+on: 6717
+ou: 6570
+at: 6386
+ed: 6356
+en: 6054
+hi: 5815
+to: 5797
+it: 5740
+is: 5714
+ng: 5659
+or: 5193
+ar: 4968
+as: 4876
+es: 4626
+of: 4484
+st: 4481
+te: 4448
+ne: 4241
+se: 4231
+ve: 3815
+ea: 3718
+me: 3664
+le: 3528
+de: 3343
+nt: 3159
+ro: 3097
+ad: 3092
+ti: 3078
+ll: 3069
+be: 2992
+wa: 2968
+no: 2945
+
+-------------------------------------------------
+trigrams
+-------------------------------------------------
+the: 11686
+and: 5881
+ing: 4337
+her: 3290
+his: 2675
+hat: 2427
+tha: 2229
+ere: 2204
+you: 2057
+was: 1799
+for: 1740
+ith: 1643
+wit: 1598
+ent: 1500
+ion: 1413
+ver: 1407
+had: 1380
+thi: 1317
+ter: 1303
+not: 1286
+all: 1280
+ght: 1218
+him: 1210
+one: 1169
+our: 1103
+ess: 1075
+tio: 1064
+ave: 1059
+ear: 1041
+igh: 1029
+man: 1010
+ted: 967
+eve: 938
+nce: 919
+res: 905
+wer: 893
+oul: 888
+ome: 872
+ain: 869
+out: 865
+
+
+============================================================================
+                                Moby Dick
+============================================================================
+$ julia HW2Code_Hulette_B_hulettbh.jl moby_dick.txt
+-------------------------------------------------
+singles
+-------------------------------------------------
+e: 118967
+t: 89548
+a: 78956
+o: 70697
+n: 66669
+i: 66586
+s: 65011
+h: 63443
+r: 53340
+l: 43297
+d: 38769
+u: 27217
+m: 23653
+c: 23121
+w: 22500
+g: 21239
+f: 21228
+p: 17711
+y: 17209
+b: 17165
+v: 8721
+k: 8196
+q: 1567
+j: 1176
+x: 1062
+z: 636
+
+-------------------------------------------------
+digrams
+-------------------------------------------------
+th: 31744
+he: 26750
+in: 20051
+an: 15343
+er: 15200
+re: 11943
+ha: 11649
+nd: 11116
+at: 10472
+ng: 10068
+hi: 9658
+on: 9516
+ed: 9356
+en: 9113
+st: 8794
+is: 8661
+ou: 8633
+le: 8509
+es: 8247
+or: 8185
+al: 8164
+it: 8050
+ar: 7978
+of: 7458
+te: 7448
+to: 7360
+as: 7072
+se: 6827
+ea: 6498
+ll: 6070
+me: 5857
+wh: 5819
+ve: 5815
+nt: 5497
+ne: 5405
+ti: 5172
+de: 5050
+ro: 4960
+ee: 4714
+li: 4678
+
+-------------------------------------------------
+trigrams
+-------------------------------------------------
+the: 20029
+ing: 8158
+and: 7985
+his: 4094
+hat: 3923
+her: 3582
+tha: 3575
+ere: 3159
+all: 2965
+for: 2783
+ter: 2612
+thi: 2583
+wha: 2541
+ver: 2295
+ent: 2249
+ith: 2243
+hal: 2143
+wit: 2099
+but: 1923
+ale: 1909
+ain: 1787
+one: 1718
+ght: 1707
+was: 1691
+igh: 1568
+not: 1568
+ted: 1533
+eve: 1529
+ome: 1528
+ion: 1524
+ate: 1521
+ess: 1504
+out: 1499
+hou: 1496
+tho: 1491
+hin: 1440
+nce: 1435
+hen: 1387
+ear: 1373
+you: 1367
+
+
+============================================================================
+                          Analyzing Ciphertext
+============================================================================
+$ julia HW2Code_Hulette_B_hulettbh.jl cipher.txt
+-------------------------------------------------
+singles
+-------------------------------------------------
+x: 161
+t: 126
+j: 123
+m: 114
+p: 107
+c: 96
+r: 87
+b: 83
+n: 68
+v: 64
+g: 49
+w: 38
+y: 30
+a: 29
+l: 27
+i: 26
+u: 25
+h: 23
+f: 18
+e: 15
+q: 12
+d: 6
+o: 6
+k: 3
+s: 1
+z: 1
+
+-------------------------------------------------
+digrams
+-------------------------------------------------
+jp: 66
+px: 52
+bt: 43
+mt: 42
+tn: 29
+tw: 26
+xv: 25
+ci: 18
+pm: 18
+cu: 16
+vx: 16
+hb: 15
+br: 15
+jx: 14
+xt: 13
+pb: 12
+pc: 12
+xn: 12
+mr: 12
+gx: 12
+tj: 11
+mg: 10
+gc: 9
+tc: 9
+cj: 9
+rj: 9
+xj: 9
+rp: 9
+lx: 9
+gg: 8
+mj: 8
+rm: 8
+ap: 8
+ct: 8
+cv: 8
+jb: 7
+vc: 7
+ml: 7
+xm: 7
+wx: 7
+
+-------------------------------------------------
+trigrams
+-------------------------------------------------
+jpx: 50
+mtn: 26
+btw: 23
+hbt: 15
+pbr: 8
+tjx: 8
+apm: 7
+jpe: 6
+mgg: 6
+btj: 6
+xvr: 6
+jxv: 6
+pxv: 6
+mlx: 6
+xvx: 6
+jvc: 5
+pmg: 5
+mrj: 5
+rpm: 5
+vxm: 5
+pmt: 5
+cut: 5
+ypc: 4
+cuf: 4
+vbj: 4
+gxj: 4
+vxj: 4
+gxn: 4
+cjp: 4
+xvq: 4
+ymr: 4
+jxt: 4
+acu: 4
+pcu: 4
+vqv: 4
+tax: 4
+qvx: 4
+twx: 4
+tcy: 4
+mta: 3
+
+
+============================================================================
+                          Decrypting Ciphertext
+============================================================================
+$ julia HW2Code_Hulette_B_hulettbh.jl tale_of_two_cities.txt cipher.txt
+Analyzing 'tale_of_two_cities.txt' letter frequency... Done.
+Analyzing 'cipher.txt' letter frequency... Done.
+Comparing letter frequencies to estimate monoalphabetic cipher key... Done.
+
+
+=====================
+Initial Decrypt Guess
+=====================
+in the sace hruo wace froth fingeos rf a can's hand, and morte rkeo against the wandlestiwy uvrn
+the vlasteo rf the mall rf the ying's valawe; and the ying sam the vaot rf the hand that morte.
+then the ying's wruntenanwe mas whanged, and his thrughts torubled hic, sr that the qrints rf his
+lrins meoe lrrsed, and his ynees scrte rne against anrtheo. the ying woied alrud tr boing in the
+astorlrgeos, the whaldeans, and the srrthsapeos. and the ying svaye, and said tr the mise cen
+rf babplrn, mhrsrekeo shall oead this moiting, and shrm ce the inteovoetatirn theoerf, shall be
+wlrthed mith swaolet, and hake a whain rf grld abrut his newy, and shall be the thiod ouleo
+in the yingdrc. then wace in all the ying's mise cen; but thep wruld nrt oead the moiting, nro caye
+ynrmn tr the ying the inteovoetatirn theoerf. then mas ying belshaxxao goeatlp torubled, and
+his wruntenanwe mas whanged in hic, and his lrods meoe astrnished. nrm the jueen, bp oeasrn rf
+the mrods rf the ying and his lrods, wace intr the banjuet hruse; and the jueen svaye and said, r
+ying, like froekeo; let nrt thp thrughts toruble thee, nro let thp wruntenanwe be whanged; theoe is
+a can in thp yingdrc, in mhrc is the svioit rf the hrlp grds; and in the daps rf thp misdrc rf the
+grds, mas frund in hic; mhrc the ying nebuwhadnexxao thp fatheo, the ying, i sap, thp fatheo,
+cade casteo rf the cagiwians, astorlrgeos, whaldeans, and srrthsapeos; froascuwh as an
+ezwellent svioit, and ynrmledge, and undeostanding, inteovoeting rf doeacs, and shrming rf
+haod sentenwes, and dissrlking rf drubts, meoe frund in the sace daniel, mhrc the ying naced
+belteshaxxao; nrm let daniel be walled, and he mill shrm the inteovoetatirn.
+
+Comparing decrypt to dictionary words to correct mistakes
+Correcting 'inteovoetatirn'... interpretation
+Correcting 'interpretation'... interpretation
+Correcting 'nebuwhadnexxar'... nebuchadnezzar
+Correcting 'interpretation'... interpretation
+Correcting 'understanding'... understanding
+Correcting 'interpreting'... interpreting
+Correcting 'belteshaxxar'... netherlander
+Corrected word is not close enough! Skipping
+Correcting 'candlesticy'... candlestick
+Correcting 'countenance'... countenance
+Correcting 'astrologers'... astrologers
+Correcting 'soothsavers'... soothsayers
+Correcting 'countenance'... countenance
+Correcting 'countenance'... countenance
+Correcting 'astrologers'... astrologers
+Correcting 'soothsayers'... soothsayers
+Correcting 'belshaxxar'... belshazzar
+Correcting 'astonished'... astonished
+Correcting 'dissolving'... dissolving
+Correcting 'chaldeans'... canadians
+Corrected word is not close enough! Skipping
+Correcting 'mhosoever'... whosoever
+Correcting 'magicians'... magicians
+Correcting 'chaldeans'... canadians
+Corrected word is not close enough! Skipping
+Correcting 'forasmuch'... goldsmith
+Corrected word is not close enough! Skipping
+Correcting 'ezcellent'... excellent
+Correcting 'knowledge'... knowledge
+Correcting 'sentences'... sentences
+Correcting 'thoughts'... thoughts
+Correcting 'troubled'... troubled
+Correcting 'troubled'... troubled
+Correcting 'thoughts'... thoughts
+Correcting 'fingers'... fingers
+Correcting 'against'... against
+Correcting 'plaster'... plaster
+Correcting 'changed'... changed
+Correcting 'against'... against
+Correcting 'another'... another
+Correcting 'babylon'... babylon
+Correcting 'writing'... writing
+Correcting 'thereof'... thereof
+Correcting 'clothed'... clothed
+Correcting 'scarlet'... scarlet
+Correcting 'kingdom'... kingdom
+Correcting 'writing'... writing
+Correcting 'thereof'... thereof
+Correcting 'greatly'... greatly
+Correcting 'changed'... changed
+Correcting 'banjuet'... banquet
+Correcting 'forever'... forever
+Correcting 'trouble'... trouble
+Correcting 'changed'... changed
+Correcting 'kingdom'... kingdom
+Correcting 'showing'... showing
+Correcting 'palace'... palace
+Correcting 'joints'... joints
+Correcting 'loosed'... loosed
+Correcting 'reason'... reason
+Correcting 'spirit'... spirit
+Correcting 'wisdom'... wisdom
+Correcting 'father'... father
+Correcting 'father'... father
+Correcting 'master'... master
+Correcting 'spirit'... spirit
+Correcting 'dreams'... dreams
+Correcting 'doubts'... doubts
+Correcting 'daniel'... daniel
+Correcting 'daniel'... daniel
+Correcting 'called'... called
+Correcting 'forth'... forth
+Correcting 'wrote'... wrote
+Correcting 'wrote'... wrote
+Correcting 'loins'... loins
+Correcting 'knees'... knees
+Correcting 'smote'... smote
+Correcting 'cried'... cried
+Correcting 'aloud'... aloud
+Correcting 'bring'... bring
+Correcting 'spake'... spake
+Correcting 'shall'... shall
+
+=============
+Final Decrypt
+=============
+in the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon
+the plaster of the wall of the king's palace; and the king saw the part of the hand that wrote.
+then the king's countenance was changed, and his thoughts troubled him, so that the joints of his
+loins were loosed, and his knees smote one against another. the king cried aloud to bring in the
+astrologers, the chaldeans, and the soothsayers. and the king spake, and said to the wise men
+of babylon, whosoever shall read this writing, and show me the interpretation thereof, shall be
+clothed with scarlet, and have a chain of gold about his neck, and shall be the third ruler
+in the kingdom. then came in all the king's wise men; but they could not read the writing, nor make
+known to the king the interpretation thereof. then was king belshazzar greatly troubled, and
+his countenance was changed in him, and his lords were astonished. now the queen, by reason of
+the words of the king and his lords, came into the banquet house; and the queen spake and said, o
+king, live forever; let not thy thoughts trouble thee, nor let thy countenance be changed; there is
+a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy wisdom of the
+gods, was found in him; whom the king nebuchadnezzar thy father, the king, i say, thy father,
+made master of the magicians, astrologers, chaldeans, and soothsayers; forasmuch as an
+excellent spirit, and knowledge, and understanding, interpreting of dreams, and showing of
+hard sentences, and dissolving of doubts, were found in the same daniel, whom the king named
+belteshazzar; now let daniel be called, and he will show the interpretation.
+
+
+Final Key:
+----------
+Plaintext:	a b c d e f g h i j k l m n o p q r s t u v w x y z
+Ciphertext:	c i o v y b l k f t q m a d z h p s j n u r g e w x
